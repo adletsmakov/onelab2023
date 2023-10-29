@@ -1,4 +1,4 @@
-# Android One Lab 2023
+##  Android One Lab 2023
 
 В этом курсе мы изучим по основы языка Kotlin и Android development. Курс будет состоять из 8 уроков:
 
@@ -17,3 +17,8 @@
 - Работа с сетью, получение данных из JSON. (Retrofit, OkHttp)
 
 - Публикация приложения в Google Play Market. Подведение итогов. 
+
+
+###  К концу курса вы сможете...
+
+Создавать android-приложение с нуля и выгружать его в Google Play Market.
